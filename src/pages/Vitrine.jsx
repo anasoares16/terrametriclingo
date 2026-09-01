@@ -39,7 +39,7 @@ export default function Vitrine() {
           Vitrine <span style={{ color: "#22c55e" }}>Sustentavel</span>
         </h1>
         <p style={{ color: "#ffffff", fontSize: 15, margin: 0 }}>
-          Empresas e lojas que fazem a diferenca para o meio ambiente - Região Sudeste
+          Empresas e lojas que fazem a diferença para o meio ambiente - Região Sudeste
         </p>
       </div>
 
